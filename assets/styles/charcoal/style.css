@@ -1,0 +1,32 @@
+a.blueutopiadonate.charcoal {
+	margin:0px;
+	padding:0px;
+    background-image: linear-gradient(to bottom, #2D2D2D, #1E1E1E);
+    background-repeat: repeat-x;
+  	color: #FFFFFF !important;
+  	border: 1px solid #999999;
+  	border-radius: 4px 4px 4px 4px;
+  	box-shadow: 2px 2px 2px #CCCCCC;
+    font-size: 17.5px;
+  	font-weight: bold;
+  	text-transform: uppercase;
+	text-decoration: none;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+	text-align:center !important;
+	display:block !important;
+	height:40px !important;
+	overflow:hidden !important;
+	padding-top:10px !important;
+}
+
+a.blueutopiadonate.charcoal:hover, a.blueutopiadonate.charcoal:active {
+    background-image: linear-gradient(to bottom, #1E1E1E, #2D2D2D);
+    background-repeat: repeat-x;
+  	color: #ffffff !important;
+    font-size: 17.5px;
+  	font-weight: bold;
+}
+
+a.blueutopiadonate.charcoal:visited {
+
+}
